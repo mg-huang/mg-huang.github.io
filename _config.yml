@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Huang Ruiming / Personal Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Huang"
 description              : &description "Man with 185 thks"
