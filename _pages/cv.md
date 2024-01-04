@@ -12,9 +12,9 @@ redirect_from:
 
 Education
 ======
-* M.S in Computer Science, The University of Hong Kong (HKU), 2023 - Present
+* M.S in Computer Science, The University of Hong Kong (HKU), 2023 - Present<br>
   Dept. of Computer Science
-* B.Eng. in Electronic Information Engineering, Huazhong University of Science and Technology (HUST), 2019 - 2023
+* B.Eng. in Electronic Information Engineering, Huazhong University of Science and Technology (HUST), 2019 - 2023<br>
   School of Electronic Information and Communications
 
 
