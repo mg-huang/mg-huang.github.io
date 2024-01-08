@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Huang"
-description              : &description "Man with 185 thks"
+description              : &description "Personal Homepage"
 url                      : https://mg-huang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mg-huang/mg-huang.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Huang Ruiming"
-  avatar           : "profile.png"
+  avatar           : "hrm-square.png"
   bio              : "Explore the world and grow inside"
   location         : "HK"
   employer         :
