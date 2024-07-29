@@ -122,6 +122,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - hdata
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -147,8 +148,8 @@ exclude:
   - tmp
   - vendor
   
-  - hdata
-  
+
+
 keep_files:
   - .git
   - .svn
